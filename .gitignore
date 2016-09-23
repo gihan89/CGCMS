@@ -2,4 +2,5 @@ CGCMS/packages
 CGCMS/CGCMS/obj
 CGCMS/CGCMS/bin
 CGCMS/CGCMS/node_modules
-
+CGCMS/CGCMS/libs
+CGCMS/CGCMS/typings
